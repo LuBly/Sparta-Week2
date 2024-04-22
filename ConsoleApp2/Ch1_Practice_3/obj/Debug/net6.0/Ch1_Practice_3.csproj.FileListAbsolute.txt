@@ -1,0 +1,15 @@
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\bin\Debug\net6.0\Ch1_Practice_3.exe
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\bin\Debug\net6.0\Ch1_Practice_3.deps.json
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\bin\Debug\net6.0\Ch1_Practice_3.runtimeconfig.json
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\bin\Debug\net6.0\Ch1_Practice_3.dll
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\bin\Debug\net6.0\Ch1_Practice_3.pdb
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.csproj.AssemblyReference.cache
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.AssemblyInfoInputs.cache
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.AssemblyInfo.cs
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.csproj.CoreCompileInputs.cache
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.dll
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\refint\Ch1_Practice_3.dll
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.pdb
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\Ch1_Practice_3.genruntimeconfig.cache
+D:\스파르탄\Sparta-Week2\ConsoleApp2\Ch1_Practice_3\obj\Debug\net6.0\ref\Ch1_Practice_3.dll
