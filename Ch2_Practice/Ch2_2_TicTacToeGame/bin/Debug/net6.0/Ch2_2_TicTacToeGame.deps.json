@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ch2_2_TicTacToeGame/1.0.0": {
+        "runtime": {
+          "Ch2_2_TicTacToeGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch2_2_TicTacToeGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

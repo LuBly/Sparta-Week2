@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2_1_MatchNumberGame", "Ch2_1_MatchNumberGame\Ch2_1_MatchNumberGame.csproj", "{73D02E1B-CC2F-4DC4-81C6-E5FD55DDBD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2_2_TicTacToeGame", "Ch2_2_TicTacToeGame\Ch2_2_TicTacToeGame.csproj", "{99256AE6-B699-4032-8ABA-C0BC50A0DA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D02E1B-CC2F-4DC4-81C6-E5FD55DDBD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D02E1B-CC2F-4DC4-81C6-E5FD55DDBD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D02E1B-CC2F-4DC4-81C6-E5FD55DDBD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D02E1B-CC2F-4DC4-81C6-E5FD55DDBD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99256AE6-B699-4032-8ABA-C0BC50A0DA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99256AE6-B699-4032-8ABA-C0BC50A0DA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99256AE6-B699-4032-8ABA-C0BC50A0DA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99256AE6-B699-4032-8ABA-C0BC50A0DA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A07026A9-0477-4055-9A1C-81C2A482E72A}
+	EndGlobalSection
+EndGlobal

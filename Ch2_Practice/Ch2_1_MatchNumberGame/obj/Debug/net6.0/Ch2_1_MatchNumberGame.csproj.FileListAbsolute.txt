@@ -1,0 +1,15 @@
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\bin\Debug\net6.0\Ch2_1_MatchNumberGame.exe
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\bin\Debug\net6.0\Ch2_1_MatchNumberGame.deps.json
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\bin\Debug\net6.0\Ch2_1_MatchNumberGame.runtimeconfig.json
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\bin\Debug\net6.0\Ch2_1_MatchNumberGame.dll
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\bin\Debug\net6.0\Ch2_1_MatchNumberGame.pdb
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.csproj.AssemblyReference.cache
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.AssemblyInfoInputs.cache
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.AssemblyInfo.cs
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.csproj.CoreCompileInputs.cache
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.dll
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\refint\Ch2_1_MatchNumberGame.dll
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.pdb
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\Ch2_1_MatchNumberGame.genruntimeconfig.cache
+D:\스파르탄\Sparta-Week2\Ch2_Practice\Ch2_1_MatchNumberGame\obj\Debug\net6.0\ref\Ch2_1_MatchNumberGame.dll
