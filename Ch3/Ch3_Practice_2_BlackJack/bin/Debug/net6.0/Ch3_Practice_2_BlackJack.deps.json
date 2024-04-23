@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ch3_Practice_2_BlackJack/1.0.0": {
+        "runtime": {
+          "Ch3_Practice_2_BlackJack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch3_Practice_2_BlackJack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

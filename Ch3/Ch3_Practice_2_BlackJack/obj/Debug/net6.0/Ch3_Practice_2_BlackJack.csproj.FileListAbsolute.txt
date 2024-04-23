@@ -1,0 +1,15 @@
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\bin\Debug\net6.0\Ch3_Practice_2_BlackJack.exe
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\bin\Debug\net6.0\Ch3_Practice_2_BlackJack.deps.json
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\bin\Debug\net6.0\Ch3_Practice_2_BlackJack.runtimeconfig.json
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\bin\Debug\net6.0\Ch3_Practice_2_BlackJack.dll
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\bin\Debug\net6.0\Ch3_Practice_2_BlackJack.pdb
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.csproj.AssemblyReference.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.AssemblyInfoInputs.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.AssemblyInfo.cs
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.csproj.CoreCompileInputs.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.dll
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\refint\Ch3_Practice_2_BlackJack.dll
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.pdb
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\Ch3_Practice_2_BlackJack.genruntimeconfig.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_2_BlackJack\obj\Debug\net6.0\ref\Ch3_Practice_2_BlackJack.dll

@@ -1,0 +1,15 @@
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\bin\Debug\net6.0\Ch3_Practice_1_Snake.exe
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\bin\Debug\net6.0\Ch3_Practice_1_Snake.deps.json
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\bin\Debug\net6.0\Ch3_Practice_1_Snake.runtimeconfig.json
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\bin\Debug\net6.0\Ch3_Practice_1_Snake.dll
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\bin\Debug\net6.0\Ch3_Practice_1_Snake.pdb
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.csproj.AssemblyReference.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.AssemblyInfoInputs.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.AssemblyInfo.cs
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.csproj.CoreCompileInputs.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.dll
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\refint\Ch3_Practice_1_Snake.dll
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.pdb
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\Ch3_Practice_1_Snake.genruntimeconfig.cache
+D:\스파르탄\Sparta-Week2\Ch3\Ch3_Practice_1_Snake\obj\Debug\net6.0\ref\Ch3_Practice_1_Snake.dll
